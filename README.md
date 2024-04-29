@@ -10,3 +10,7 @@ This application enables users to explore and interact with two distinct probabi
 - NumPy
 - SciPy
 - React
+
+## Demo
+[react-streamlit.webm](https://github.com/psankhe28/react-streamlit-integration/assets/84843461/3f49e294-bf5d-46b5-9d0e-8fa16547fa36)
+
